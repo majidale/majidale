@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majidali25&label=Profile%20views&color=0e75b6&style=flat" alt="majidali25" /> </p>
 
 - **I’m an Electrical Engineer currently working in the field of RISC-V, SoC, and ASIC design. Over the past year, I’ve been actively involved in digital design and verification, building strong expertise in Verilog, SystemVerilog, C, Python, and RISC-V assembly. I also have hands-on experience with FPGA-based implementation and UVM-based verification, enabling me to contribute effectively to both hardware prototyping and advanced verification environments.**
-<img align="right" alt="myimg" width="360" src="https://github.com/Majid-Ali25/Majid-Ali25/blob/main/VLSI-Design-Flow.jpg?raw=true">
+<img align="right" alt="myimg" width="360" src="https://github.com/majidale/majidale/blob/main/engr.png?raw=true">
 - 
 
 - 📫 Reach me at: **majidali4894@gmail.com**
