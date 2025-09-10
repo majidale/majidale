@@ -51,8 +51,13 @@
 
 ### 🎬 Latest from YouTube
 <a href="https://youtu.be/O8hznH8c8AA?si=XavPwXvisK26yuCS" target="blank">
-  <img src="https://img.youtube.com/vi/O8hznH8c8AA/0.jpg" alt="Latest YouTube Video" width="400"/>
+  <img src="https://img.youtube.com/vi/O8hznH8c8AA/0.jpg" alt="Latest YouTube Video" width="200" height="130"/>
 </a>
+
+<a href="https://youtu.be/GLtbN-SocXE?si=3_7pVCGrxdV7cAvw" target="blank">
+  <img src="https://img.youtube.com/vi/GLtbN-SocXE/0.jpg" alt="Latest YouTube Video 2" width="200" height="130"/>
+</a>
+
 
 ---
 
