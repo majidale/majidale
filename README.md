@@ -3,7 +3,7 @@
 
 ---
 ### About Me💻  
-&nbsp;&nbsp;&nbsp;&nbsp;Electrical Engineer with expertise in RISC-V, SoC, and ASIC design, specializing in both research and development.<br>
+            - Electrical Engineer with expertise in RISC-V, SoC, and ASIC design, specializing in both research and development.
 &nbsp;&nbsp;&nbsp;&nbsp;Skilled in Verilog, SystemVerilog, UVM, C\C++, Python, and RISC-V Assembly, applied in modern hardware design.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Hands-on with FPGA-based implementation (Vivado, Questa, Verilator, Icarus Verilog) & UVM-based verification.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Committed to delivering innovative digital systems with robust design, detailed verification and documentation.<br>
