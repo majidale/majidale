@@ -6,17 +6,14 @@
 </p>
 
 ---
+### 🧑‍💻 About Me  
 
-### 🚀 About Me  
-- I’m an **Electrical Engineer** currently working in the field of **RISC-V, SoC, and ASIC design**.  
-- Skilled in **Verilog, SystemVerilog, UVM, C, Python, and RISC-V Assembly**.  
-- Hands-on with **FPGA-based implementation (Vivado, Questa, Verilator, Icarus Verilog)** and **UVM-based verification**.  
-- Passionate about **custom SoC design, digital logic, and computer architecture**.  
-
-
-
-- 📫 Reach me at: **majidali4894@gmail.com**
-
+- I’m an **Electrical Engineer** currently working in the field of **RISC-V, SoC, and ASIC design**, focusing on both research and development.  
+- Skilled in **Verilog, SystemVerilog, UVM, C, Python, and RISC-V Assembly**, applied in modern hardware design.  
+- Hands-on with **FPGA-based implementation** (Vivado, Questa, Verilator, Icarus Verilog) and **UVM-based verification**, ensuring reliable project outcomes.  
+- Passionate about **custom SoC design, digital logic, and computer architecture**, exploring innovation in semiconductor systems.  
+- 📩 Reach me at: **majidali4894@gmail.com** for collaboration opportunities.  
+ 
 ---
 
 ### 🌐 Connect with me
