@@ -56,7 +56,15 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=majidali25&show_icons=true&locale=en" alt="majidali25" /></p>  
+### 📈 Contribution Graph
+![Majid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=majidali25&theme=github-compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majidali25&" alt="majidali25" /></p>  
+
+
+### 🏆 GitHub Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=majidali25&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+
+
+
+### 🔥 Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=majidali25&label=Profile%20Views&color=blue&style=flat)
