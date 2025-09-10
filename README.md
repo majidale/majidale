@@ -3,7 +3,6 @@
 
 ---
 ### About Me💻
-  <img align="right" alt="myimg" width="185" height="380" src="https://github.com/majidale/majidale/blob/main/engr.png?raw=true"> 
   Electrical Engineer with expertise in RISC-V, SoC, and ASIC design, specializing in both research and development.<br>
   Skilled in Verilog, SystemVerilog, UVM, C\C++, Python, and RISC-V Assembly, applied in modern hardware design.<br>
   Hands-on with FPGA-based implementation (Vivado, Questa, Verilator, Icarus Verilog) & UVM-based verification.<br>
