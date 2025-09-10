@@ -1,18 +1,14 @@
-<h1 align="center">Hi 👋, I'm Engr. Majid Ali</h1>
-<h3 align="center">Electrical Engineer | RISC-V & SoC Design Enthusiast</h3>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=majidali25&label=Profile%20views&color=0e75b6&style=flat" alt="majidali25" /> 
-</p>
+<h1 align="center">Engr. Majid Ali</h1>
+<h3 align="center">Computer Architecture | RISC-V | Digital System Design with FPGA | Custom SoC Design </h3>
 
 ---
-### 🧑‍💻 About Me  
-
-- I’m an **Electrical Engineer** currently working in the field of **RISC-V, SoC, and ASIC design**, focusing on both research and development.  
-- Skilled in **Verilog, SystemVerilog, UVM, C, Python, and RISC-V Assembly**, applied in modern hardware design.  
-- Hands-on with **FPGA-based implementation** (Vivado, Questa, Verilator, Icarus Verilog) and **UVM-based verification**, ensuring reliable project outcomes.  
-- Passionate about **custom SoC design, digital logic, and computer architecture**, exploring innovation in semiconductor systems.  
-- 📩 Reach me at: **majidali4894@gmail.com** for collaboration opportunities.  
+### About Me💻
+  <img align="right" alt="myimg" width="185" height="380" src="https://github.com/majidale/majidale/blob/main/engr.png?raw=true"> 
+  Electrical Engineer with expertise in RISC-V, SoC, and ASIC design, specializing in both research and development.<br>
+  Skilled in Verilog, SystemVerilog, UVM, C\C++, Python, and RISC-V Assembly, applied in modern hardware design.<br>
+  Hands-on with FPGA-based implementation (Vivado, Questa, Verilator, Icarus Verilog) & UVM-based verification.<br>
+  Committed to delivering innovative digital systems with robust design, detailed verification and documentation.<br>
+  📩 Reach me at: majidali4894@gmail.com for collaboration opportunities.
  
 ---
 
