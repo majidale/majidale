@@ -19,7 +19,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Semi Edge" height="30" width="40" />
 </a>
 <a href="https://www.fiverr.com/mrj728?up_rollout=true" target="blank">
-  <img align="center" src="https://seeklogo.com/images/F/fiverr-logo-F788D846EE-seeklogo.com.png" alt="Fiverr" height="30" width="40" />
+  <img align="center" src="https://logos-world.net/wp-content/uploads/2020/12/Fiverr-Logo.png" alt="Fiverr" height="30" width="40" />
 </a>
 </p>
 
