@@ -1,31 +1,75 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hi, I'm Majid Ali  
 
-**Crafting elegant solutions to complex problems.** I'm a [Your Title, e.g., Senior DevOps Engineer] passionate about [Your Passion, e.g., building scalable cloud infrastructure and automating workflows].
+## 🌟 About Me  
+Electrical Engineer passionate about **RISC-V, SoC, and ASIC Design** with a focus on **hardware design and verification**.  
+Skilled in **Verilog, SystemVerilog (UVM), C/C++, Python, and RISC-V Assembly**.  
+Hands-on with **FPGA prototyping** (Vivado, QuestaSim, Verilator, Icarus Verilog) and **UVM-based verification environments**.  
+Committed to bridging **research and real-world hardware implementations**.  
 
 ---
 
-## 🚀 Core Competencies
+## 💻 Skills & Expertise  
+- **Hardware Design:** RISC-V, Digital Logic, SoC, FPGA  
+- **Verification:** SystemVerilog UVM, Testbenches, Functional Verification  
+- **Programming:** C/C++, Python, RISC-V Assembly  
+- **EDA Tools:** Vivado, QuestaSim, Verilator, GTKWave, SymbiFlow  
+- **Others:** Git, Linux, Shell Scripting  
 
-*   **Languages:** Python, JavaScript, Go, SQL
-*   **Frameworks & Libraries:** React, Node.js, Express, Django
-*   **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, CI/CD
-*   **Specialties:** System Architecture, API Design, Performance Optimization
+---
 
-## 💼 Featured Projects
+## 🛠️ Tools & Technologies  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Verilog-0A192F?logo=verilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SystemVerilog-3C873A?logo=systemverilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RISC--V-283593?logo=riscv&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vivado-148F77?logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/-QuestaSim-FF6F00?logo=mentor&logoColor=white" />
+</p>  
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Project Name](link)** | A brief, impactful description of what it does and the problem it solves. | React, Node.js, PostgreSQL, AWS |
-| **[Project Name](link)** | A brief, impactful description of what it does and the problem it solves. | Python, Flask, Docker, Redis |
+---
 
-## 📈 My Activity
+## 🚀 Featured Projects  
+🔹 [RISC-V Single Cycle Processor](#) – Designed and verified a single-cycle RISC-V core.  
+🔹 [Pipeline Processor Design](#) – Step-by-step pipeline processor series with simulation.  
+🔹 [Cache Integration in SweRV EH1](#) – Research work on L1 Data Cache verification.  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+---
 
-## 📫 Let's Connect
+## 📚 Research & Publications  
+- *Integration and Verification of L1 Data Cache in SweRV EH1* – **ICECT 2024**  
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+## 🎥 Content Creation  
+I share knowledge on my YouTube channel:  
+📺 [Semi Edge](https://www.youtube.com/@SemiEdge) – Focused on RISC-V, digital design, and verification.  
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MajidAli-Dev&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MajidAli-Dev&theme=tokyonight" height="160" />
+</p>  
+
+---
+
+## 🏆 Achievements & Certifications  
+- Certificate of Appreciation – IEEE Marketing Head  
+- Udemy: *Verilog HDL Fundamentals for Digital Design and Verification*  
+- ICECT 2024 Research Publication  
+
+---
+
+## 🤝 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/majid-ali-EE"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>  
+  <a href="https://www.youtube.com/@SemiEdge"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" /></a>  
+  <a href="https://github.com/MajidAli-Dev"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>  
+  <a href="mailto:majidali.ee@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>  
+
+---
+✨ *Always open to collaborations on hardware design, verification, and RISC-V projects!*  
