@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #0077b5;">Engr. Majid Ali</h1>
 
-<h3 align="center">Computer Architecture | RISC-V | Digital System Design with FPGA | Custom SoC Design | Embedded Systems </h3>
+<h3 align="center"> RISC-V | FPGA | Digital System Design | Custom SoC Design | Embedded Systems </h3>
 
 ---
 ### About Me 
@@ -77,7 +77,7 @@
 
 
 ---
-### 🎬 Latest from YouTube
+### Latest from YouTube
 <p align="center">
 
 <a href="https://youtu.be/O8hznH8c8AA?si=UhFNVOjQghlRW87t" target="_blank">
@@ -105,5 +105,5 @@
 
 ---
 
-✨ *Always open to collaborations on hardware design, verification, and RISC-V projects!*  
+   *Always open to collaborations on hardware design, verification, and RISC-V projects!*  
 ---
