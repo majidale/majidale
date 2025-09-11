@@ -49,40 +49,45 @@
 </p>  
 
 
-
-
 ### 🌐 Connect with me
 <p align="left">
 
-<a href="https://www.linkedin.com/in/majidali4894/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" />
+&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/majidali4894/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
 </a>
 
-<a href="https://www.youtube.com/@semiedge1" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Semi Edge" height="60" width="70" />
+&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/@semiedge1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Semi Edge" height="35" width="35" />
 </a>
 
-<a href="https://www.upwork.com/services/product/development-it-custom-risc-v-processor-design-and-verification-services-1831206659274484639?ref=project_share" target="blank">
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/upwork.svg" alt="Upwork" height="60" width="70" />
+&nbsp;&nbsp;&nbsp;<a href="https://www.upwork.com/services/product/development-it-custom-risc-v-processor-design-and-verification-services-1831206659274484639?ref=project_share" target="blank">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/upwork.svg" alt="Upwork" height="35" width="35" />
 </a>
 
-<a href="https://www.fiverr.com/s/99Bvvxd" target="blank">
-  <img align="center" src="https://logos-world.net/wp-content/uploads/2020/12/Fiverr-Logo.png" alt="Fiverr" height="70" width="80" />
+&nbsp;&nbsp;&nbsp;<a href="https://www.fiverr.com/s/99Bvvxd" target="blank">
+  <img align="center" src="https://logos-world.net/wp-content/uploads/2020/12/Fiverr-Logo.png" alt="Fiverr" height="35" width="35" />
 </a>
 
-<a href="mailto:mrj77955@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="60" width="70" />
+&nbsp;&nbsp;&nbsp;<a href="mailto:mrj77955@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="35" width="35" />
 </a>
 
-<a href="https://discord.com/temp-link" target="blank">
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Discord" height="60" width="70" />
+&nbsp;&nbsp;&nbsp;<a href="https://discord.com/temp-link" target="blank">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Discord" height="35" width="35" />
 </a>
 
-<a href="https://reddit.com/temp-link" target="blank">
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="Reddit" height="60" width="70" />
+&nbsp;&nbsp;&nbsp;<a href="https://reddit.com/temp-link" target="blank">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="Reddit" height="35" width="35" />
 </a>
 
 </p>
+
+
+
+
+
+
+
 
 
 
