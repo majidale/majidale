@@ -39,72 +39,54 @@
 
 <p align="center">
   
-  <img src="https://img.shields.io/badge/Icarus%20Verilog-FF4500?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/iVerilog-FF4500?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenLane-00BFFF?style=for-the-badge&logo=openaccess&logoColor=white" />
   <img src="https://img.shields.io/badge/gVim-019733?style=for-the-badge&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32C6-FF5722?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-</p>  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/PSpice-007ACC?style=for-the-badge&logo=cadence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proteus-148F77?style=for-the-badge&logo=proteus&logoColor=white" />
-  <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerWorld-FF5733?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LTspice-DC143C?style=for-the-badge&logo=analog-devices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cadence%20OrCAD-CC0000?style=for-the-badge&logo=cadence&logoColor=white" />
   <img src="https://img.shields.io/badge/ANSYS%20HFSS-FFB400?style=for-the-badge&logo=ansys&logoColor=white" />
-</p> 
-
-
-
+  <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" />
+</p>  
 
 
 
 
 ### 🌐 Connect with me
 <p align="left">
+
 <a href="https://www.linkedin.com/in/majidali4894/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/majidali4894" height="50" width="60" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" />
 </a>
+
 <a href="https://www.youtube.com/@semiedge1" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Semi Edge" height="60" width="70" />
 </a>
-<a href="" target="blank">
+
+<a href="https://www.upwork.com/services/product/development-it-custom-risc-v-processor-design-and-verification-services-1831206659274484639?ref=project_share" target="blank">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/upwork.svg" alt="Upwork" height="60" width="70" />
+</a>
+
+<a href="https://www.fiverr.com/s/99Bvvxd" target="blank">
   <img align="center" src="https://logos-world.net/wp-content/uploads/2020/12/Fiverr-Logo.png" alt="Fiverr" height="70" width="80" />
 </a>
+
+<a href="mailto:mrj77955@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="60" width="70" />
+</a>
+
+<a href="https://discord.com/temp-link" target="blank">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Discord" height="60" width="70" />
+</a>
+
+<a href="https://reddit.com/temp-link" target="blank">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="Reddit" height="60" width="70" />
+</a>
+
 </p>
 
----
 
-### 🛠️ Languages and Tools  
-<p align="left">
-    <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKk8ifhrf8QRDcGCNPKHPyGMt4o1zTotEKLw&s" alt="verilog" width="40" height="40"/> </a> 
-    <a href="https://en.wikipedia.org/wiki/SystemVerilog" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi1a-RTLfP5ujn4TaMMsIkcJk7X7O7qga08A&s" alt="systemverilog" width="40" height="40"/> </a>
-    <a href="https://www.accellera.org/downloads/standards/uvm" target="_blank" rel="noreferrer"> <img src="https://uvm.io/images/uvm-logo.svg" alt="uvm" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="https://riscv.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/10872782?s=200&v=4" alt="riscv" width="40" height="40"/> </a> 
-    <a href="https://www.veripool.org/verilator/" target="_blank" rel="noreferrer"> <img src="https://www.veripool.org/img/verilator_256_200_min.png" alt="verilator" width="40" height="40"/> </a>
-    <a href="https://iverilog.fandom.com/wiki/Main_Page" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Icarus_Verilog_logo2.png" alt="iverilog" width="40" height="40"/> </a>
-    <a href="https://www.mentor.com/products/fv/questa/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4g9iGb6Z4drVMGI-iZqtfSKmJFQDAiOMV2e2GHA1csEsTn_U2jWHkBIqTQE1rOhhGF20&usqp=CAU" alt="questasim" width="40" height="40"/> </a>
-    <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.github.corna.Vivado.png" alt="vivado design suite" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
 
 ---
-
-
-
-
-
-### 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=majidali25&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
-
-
 ### 🎬 Latest from YouTube
 <a href="https://youtu.be/O8hznH8c8AA?si=XavPwXvisK26yuCS" target="blank">
   <img src="https://img.youtube.com/vi/O8hznH8c8AA/0.jpg" alt="Latest YouTube Video" width="200" height="130"/>
@@ -113,4 +95,12 @@
 <a href="https://youtu.be/GLtbN-SocXE?si=3_7pVCGrxdV7cAvw" target="blank">
   <img src="https://img.youtube.com/vi/GLtbN-SocXE/0.jpg" alt="Latest YouTube Video 2" width="200" height="130"/>
 </a>
+
+---
+
+### 🏆 GitHub Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=majidali25&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+
+
+
 
