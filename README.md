@@ -1,4 +1,4 @@
-<h1 align="center">Engr. Majid Ali</h1>
+<h1 align="center" style="color: #0077b5;">Engr. Majid Ali</h1>
 
 <h3 align="center">Computer Architecture | RISC-V | Digital System Design with FPGA | Custom SoC Design | Embedded Systems </h3>
 
@@ -50,7 +50,7 @@
 
 
 
-### 🌐 Connect with me
+### Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/majidali4894/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
@@ -76,29 +76,34 @@
 </p>
 
 
-
-
-
-
-
-
-
-
 ---
 ### 🎬 Latest from YouTube
-<a href="https://youtu.be/O8hznH8c8AA?si=XavPwXvisK26yuCS" target="blank">
-  <img src="https://img.youtube.com/vi/O8hznH8c8AA/0.jpg" alt="Latest YouTube Video" width="200" height="130"/>
+<p align="center">
+
+<a href="https://youtu.be/O8hznH8c8AA?si=UhFNVOjQghlRW87t" target="_blank">
+  <img src="https://img.youtube.com/vi/O8hznH8c8AA/0.jpg" alt="Video 1" width="200" height="130"/>
 </a>
 
-<a href="https://youtu.be/GLtbN-SocXE?si=3_7pVCGrxdV7cAvw" target="blank">
-  <img src="https://img.youtube.com/vi/GLtbN-SocXE/0.jpg" alt="Latest YouTube Video 2" width="200" height="130"/>
+<a href="https://youtu.be/ijEzf4h7utg?si=bebcaiGvFNUEyDbn" target="_blank">
+  <img src="https://img.youtube.com/vi/ijEzf4h7utg/0.jpg" alt="Video 2" width="200" height="130"/>
 </a>
+
+<a href="https://youtu.be/dh88oe6O0QU?si=gBIpzRS_frzI7_kZ" target="_blank">
+  <img src="https://img.youtube.com/vi/dh88oe6O0QU/0.jpg" alt="Video 3" width="200" height="130"/>
+</a>
+
+<a href="https://youtu.be/GLtbN-SocXE?si=VoUREWDvUxzHHBE5" target="_blank">
+  <img src="https://img.youtube.com/vi/GLtbN-SocXE/0.jpg" alt="Video 4" width="200" height="130"/>
+</a>
+</p>
+
 
 ---
 
-### 🏆 GitHub Achievements
+### GitHub Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=majidali25&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
+---
 
-
-
+✨ *Always open to collaborations on hardware design, verification, and RISC-V projects!*  
+---
